@@ -15,6 +15,6 @@ conseguir superar os desafios impostos na dimensão 35-C?
 
 ### Como Jogar
 
-- **Link para download da executável para Windows:** https://drive.google.com/file/d/1mU4GUSm7uW5TDvIufWV84zFoFTWRRwRX/view?usp=sharing
+- **Link para download da executável para Windows:** https://drive.google.com/file/d/1xZ7Iyoc-WHcNC4gHM4aZ0bJ_0bgkh02w/view?usp=sharing
 
 ### Versão Unity: 2020.3.8f1
